@@ -11,7 +11,7 @@
 ![Neon](https://img.shields.io/badge/Neon-Postgres-00e599?style=for-the-badge)
 ![Drizzle](https://img.shields.io/badge/Drizzle-ORM-c5f74f?style=for-the-badge)
 
-[Live Demo](#) · [Report Bug](https://github.com/abhishekboadgurjar/ai-website-generator/issues) · [Request Feature](https://github.com/abhishekboadgurjar/ai-website-generator/issues)
+[Live Demo](#) · [Report Bug](https://github.com/abhishekgurjarin/ai-website-generator/issues) · [Request Feature](https://github.com/abhishekgurjarin/ai-website-generator/issues)
 
 </div>
 
@@ -21,7 +21,7 @@
 
 AI Website Generator empowers users to create sophisticated websites through an intuitive AI-powered interface. Built with modern full-stack architecture, it demonstrates enterprise-level patterns for real-time generation, database management, and intelligent workflow automation. Simply describe your vision in natural language, and watch as the AI transforms your ideas into fully functional, responsive web designs.
 
-**Author:** Abhishek Gurjar — [GitHub Profile](https://github.com/abhishekboadgurjar) | [Portfolio](https://abhishekboadgurjar.vercel.app/)
+**Author:** Abhishek Gurjar — [GitHub Profile](https://github.com/abhishekgurjarin) | [Portfolio](https://abhishekgurjar.vercel.app/)
 
 ---
 
@@ -220,7 +220,7 @@ ai-website-generator/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/abhishekboadgurjar/ai-website-generator.git
+   git clone https://github.com/abhishekgurjarin/ai-website-generator.git
    cd ai-website-generator
    ```
 
@@ -408,14 +408,14 @@ Permission is granted to use, copy, modify, merge, publish, distribute, sublicen
 ## 📬 Contact & Support
 
 **Abhishek Gurjar**
-* GitHub: [@abhishekboadgurjar](https://github.com/abhishekboadgurjar)
-* Portfolio: [https://abhishekboadgurjar.vercel.app/](https://abhishekboadgurjar.vercel.app/)
+* GitHub: [@abhishekgurjarin](https://github.com/abhishekgurjarin)
+* Portfolio: [https://abhishekgurjar.vercel.app/](https://abhishekgurjar.vercel.app/)
 
 ### Get Help
 
-* 🐛 **Report Bugs**: [GitHub Issues](https://github.com/abhishekboadgurjar/ai-website-generator/issues)
-* 💡 **Request Features**: [GitHub Issues](https://github.com/abhishekboadgurjar/ai-website-generator/issues)
-* 💬 **Discussions**: [GitHub Discussions](https://github.com/abhishekboadgurjar/ai-website-generator/discussions)
+* 🐛 **Report Bugs**: [GitHub Issues](https://github.com/abhishekgurjarin/ai-website-generator/issues)
+* 💡 **Request Features**: [GitHub Issues](https://github.com/abhishekgurjarin/ai-website-generator/issues)
+* 💬 **Discussions**: [GitHub Discussions](https://github.com/aabhishekgurjarin/ai-website-generator/discussions)
 
 ---
 
@@ -433,7 +433,7 @@ Permission is granted to use, copy, modify, merge, publish, distribute, sublicen
 
 **[⬆ Back to Top](#ai-website-generator)**
 
-Made with ❤️ by [Abhishek Gurjar](https://github.com/abhishekboadgurjar)
+Made with ❤️ by [Abhishek Gurjar](https://github.com/abhishekgurjarin)
 
 If you find this project helpful, please consider giving it a ⭐️
 
